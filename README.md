@@ -1,4 +1,4 @@
-pin_board
-=========
+pinboard description
+====================
 
-This is similar to Pinterest built using ROR
+This is an app similar to Pinterest. It is built using Ruby on Rails.
